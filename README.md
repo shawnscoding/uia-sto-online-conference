@@ -14,7 +14,7 @@
 
 #### This project was globally introduced by Arirang News.
 
-[Link to the new](https://www.youtube.com/watch?v=ksBnRT1f2Ak&t=2s)
+[Link to the news](https://www.youtube.com/watch?v=ksBnRT1f2Ak&t=2s)
 
 [![Watch the video](https://img.youtube.com/vi/ksBnRT1f2Ak/sddefault.jpg)](https://www.youtube.com/watch?v=ksBnRT1f2Ak&t=2s)
 
