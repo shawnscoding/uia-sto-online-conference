@@ -16,7 +16,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/ksBnRT1f2Ak/sddefault.jpg)](https://www.youtube.com/watch?v=ksBnRT1f2Ak&t=2s)
 
-#### I also recorded this project during the conference
+#### I also recorded by myself during the Event
 
 - [Demo 1](https://www.youtube.com/watch?v=6EdqKznxncA)
 - [Demo 2](https://www.youtube.com/watch?v=a9wX4MSkSyg)
