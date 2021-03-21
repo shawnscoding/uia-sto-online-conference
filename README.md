@@ -34,7 +34,7 @@ Our team consisted of
 - Two Web designer
 - Two WebGL developer
 
-My responsibility was developing both front-end and back-end. Especially, I developed the front-end entirely on my own from scratch.
+My responsibility was developing both front-end and back-end. Particularly, I developed the front-end entirely on my own from scratch.
 
 # Application Work Flow
 
@@ -75,31 +75,31 @@ My responsibility was developing both front-end and back-end. Especially, I deve
 - Help Center ( Technical Support )
 - Statistics
 
-### This application feels like a real event and offers almost all features that offline events do.
+#### This application feels like a real event and offers almost all features that offline events do.
 
 # Job Description
 
 ### My duties in this project include:
 
-- Build RESTful API in expressjs
+- Build RESTful APIs in expressjs
 - CRUD data in Mysql DB Tables
 - User Authentication
 - Create UIs in React (tables, banners, poppers, Modals, buttons and so on)
-- Enable user to do video chat
-- Enable user to do text chat
 - Help Center embedding & Technical Support during the event
 - Enable user to take a photo for a gift event.
-- Scheduling Push notification, VOD and Live Streaming
+- Schedule Push notification, VOD and Live Streaming
 - Handle browser compatibility (Chrome, Safari, Firefox, MS Edge, IE11)
 - Responsive Design ( Supports mobile devices )
 - Gitlab Administration
+- Enable user to do video chat
+- Enable user to do text chat
 - Translation Korean to English
 
 # Result of project
 
 ### STO is very happy with this application.
 
-STO is very satisfied with this application. They even asked us to do more projects for them.
+STO was very satisfied with this application. They even asked us to do more projects for them.
 
 ### This project motivated me to build a reactjs open-source library
 
@@ -107,13 +107,14 @@ During the development, I realised building a crontab (scheduling jobs) is quite
 
 ### Our application has received great attention in the market
 
-Our application, Virtual Seoul, received great attention in the market and attracted many professional event organizers. As a result, It brought many contracts.
+Our application, Virtual Seoul, has received great attention in the market and attracted many professional event organizers. As a result, It brought many contracts.
 
-### Some of the biggest projects I've built are listed below.
+#### Some of the biggest projects I've built are listed below.
 
 - KHA ( Korean Hospital Association )
 - Asia TEFL (Teaching English as a second or foreign language)
+<!--
 
 # Note
 
-Due to the company policy, I am afraid that I am not allowed to open the source code.
+Due to the company policy, I am afraid that I am not allowed to open the source code. -->
