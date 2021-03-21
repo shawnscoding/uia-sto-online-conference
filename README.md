@@ -42,7 +42,7 @@ My responsibility was developing both front-end and back-end. Especially, I deve
 
 ![diagram](/assets/diagram.png)
 
-# Main Features
+# Features
 
 ## Video chat
 
