@@ -12,11 +12,11 @@
 
 # Demo
 
-### This project was globally introduced by Arirang News.
+#### This project was globally introduced by Arirang News.
 
 [![Watch the video](https://img.youtube.com/vi/ksBnRT1f2Ak/sddefault.jpg)](https://www.youtube.com/watch?v=ksBnRT1f2Ak&t=2s)
 
-### I also recorded this project during the conference
+#### I also recorded this project during the conference
 
 - [Demo 1](https://www.youtube.com/watch?v=6EdqKznxncA)
 - [Demo 2](https://www.youtube.com/watch?v=a9wX4MSkSyg)
@@ -38,7 +38,7 @@ My responsibility was developing both front-end and back-end. Especially, I deve
 
 # Application Work Flow
 
-### This application was built with Reactjs, Redux, Expressjs MysqlDB, Babylonjs and AWS.
+#### This application was built with Reactjs, Redux, Expressjs MysqlDB, Babylonjs and AWS.
 
 ![diagram](/assets/diagram.png)
 
@@ -97,19 +97,19 @@ My responsibility was developing both front-end and back-end. Especially, I deve
 
 # Result of project
 
-## 1. STO is very happy with this application.
+### STO is very happy with this application.
 
 STO is very satisfied with this application. They even asked us to do more projects for them.
 
-## 2. This project motivated me to build a reactjs open-source library
+### This project motivated me to build a reactjs open-source library
 
 During the development, I realised building a crontab (scheduling jobs) is quite tedious and difficult to test. This motivated me to create a node open-source package, which allows you to easily build a crontab functionality. [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab). I created this package entirely on my own from scratch. There is an average of approximately 300 weekly downloads.
 
-## 3. Our application has received great attention in the market
+### Our application has received great attention in the market
 
 Our application, Virtual Seoul, received great attention in the market and attracted many professional event organizers. As a result, It brought many contracts.
 
-#### Some of the biggest projects I've built are listed below.
+### Some of the biggest projects I've built are listed below.
 
 - KHA ( Korean Hospital Association )
 - Asia TEFL (Teaching English as a second or foreign language)
