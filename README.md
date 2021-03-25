@@ -16,7 +16,7 @@
 
 [Link to the news](https://www.youtube.com/watch?v=ksBnRT1f2Ak&t=2s)
 
-[![Watch the video](https://img.youtube.com/vi/ksBnRT1f2Ak/sddefault.jpg)](https://www.youtube.com/watch?v=ksBnRT1f2Ak&t=2s)
+[![Watch the video](https://img.youtube.com/vi/ksBnRT1f2Ak/hqdefault.jpg)](https://www.youtube.com/watch?v=ksBnRT1f2Ak&t=2s)
 
 #### I also recorded this during the Event
 
