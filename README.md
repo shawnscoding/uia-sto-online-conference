@@ -4,9 +4,9 @@
 
 - [Demo](#Demo)
 - [Project Description](#Project-Description)
+- [Responsibilities](#My-responsibilities-in-this-project-include:)
 - [Work Flow](#Application-Work-Flow)
-- [Features](#Features)
-- [Job Description](#Job-Description)
+- [Main Features](#Main-features)
 - [Result of project](#Result-of-project)
 - [Note](#note)
 
@@ -26,9 +26,9 @@
 
 # Project Description
 
-This project was used for the Online Conference & Exhibition held by Seoul Tourism Organization(STO) and Union of International Associations(UIA). Due to the Pandemic, They couldn't host the annual event that they had been organised for decades. Therefore, they needed us to build a website, Virtual Seoul, as a substitute for their offline Conference and Exhibition.
+This project was used for the Online Conference & Exhibition held by Seoul Tourism Organization(STO) and Union of International Associations(UIA). Due to the Pandemic, they couldn't host the annual event that they had been organised for decades. Therefore, they needed us to build a website, Virtual Seoul, as a substitute for their offline Conference and Exhibition.
 
-Our team consisted of
+### Our team consisted of
 
 - A Project Manager
 - A front-end developer
@@ -38,17 +38,33 @@ Our team consisted of
 
 My responsibility was developing both front-end and back-end. Particularly, I developed the front-end entirely on my own from scratch.
 
+# My responsibilities in this project include:
+
+- Build RESTful APIs in expressjs
+- CRUD data in Mysql DB Tables
+- User Authentication
+- Create UIs in React (tables, banners, poppers, Modals, buttons and so on)
+- Help Center embedding & Technical Support during the event
+- Schedule Push notification, VOD and Live Streaming
+- Handle browser compatibility (Chrome, Safari, Firefox, MS Edge, IE11)
+- Responsive Design (Supports mobile devices)
+- Gitlab Administration
+- Translation Korean to English
+- Enable users to take a photo for a gift event
+- Enable users to do video chat
+- Enable users to do text chat
+
 # Application Work Flow
 
 #### This application was built with Reactjs, Redux, Expressjs MysqlDB, Babylonjs and AWS.
 
-![diagram](/assets/diagram.png)
+![diagram](assets/diagram.png)
 
-# Features
+# Main features
 
 ## Video chat
 
-![assets/many_to_many_video_chat.png](https://img.youtube.com/vi/edzgNn5f5yQ/hqdefault.jpg)
+![assets/many_to_many_video_chat.png](assets/video_chat.jpg)
 
 ## Text chat
 
@@ -64,7 +80,7 @@ My responsibility was developing both front-end and back-end. Particularly, I de
 
 ## Live And VOD Streaming
 
-![streaming](https://img.youtube.com/vi/a9wX4MSkSyg/hqdefault.jpg)
+![streaming](assets/live_streaming.jpg)
 
 ## Seoul Membership Card Event
 
@@ -79,25 +95,7 @@ My responsibility was developing both front-end and back-end. Particularly, I de
 
 #### This application feels like a real event and offers almost all features that offline events do.
 
-# Job Description
-
-### My duties in this project include:
-
-- Build RESTful APIs in expressjs
-- CRUD data in Mysql DB Tables
-- User Authentication
-- Create UIs in React (tables, banners, poppers, Modals, buttons and so on)
-- Help Center embedding & Technical Support during the event
-- Enable user to take a photo for a gift event.
-- Schedule Push notification, VOD and Live Streaming
-- Handle browser compatibility (Chrome, Safari, Firefox, MS Edge, IE11)
-- Responsive Design ( Supports mobile devices )
-- Gitlab Administration
-- Enable user to do video chat
-- Enable user to do text chat
-- Translation Korean to English
-
-# Result of project
+# Achievement
 
 ### STO is very happy with this application.
 
