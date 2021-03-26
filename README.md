@@ -1,4 +1,4 @@
-# STO & UIA Online Conference & Exhibition
+# UIA & STO Online Conference
 
 ## Table of Content
 
@@ -14,7 +14,7 @@
 
 My responsibility was developing both front-end and back-end. Particularly, I developed the front-end entirely on my own from scratch.
 
-#### My responsibilities in this project include:
+### My responsibilities in this project include:
 
 - Build RESTful APIs in expressjs
 - CRUD data in Mysql DB Tables
@@ -30,13 +30,13 @@ My responsibility was developing both front-end and back-end. Particularly, I de
 - Enable users to do video chat
 - Enable users to do text chat
 
-#### I dealt with the most issues among the developers
+### I solved the most issues among the developers
 
-#### A screenshot demonstrating the number of the issues in [Jira](https://www.atlassian.com/software/jira) is below
+### A screenshot demonstrating the number of the issues in [Jira](https://www.atlassian.com/software/jira) is below
 
 ![jira](assets/jira3.jpg)
 
-#### I solved 146 issues out of 325
+### I solved 146 issues out of 325
 
 # Application Work Flow
 
@@ -60,38 +60,36 @@ My responsibility was developing both front-end and back-end. Particularly, I de
 
 # Project Description
 
-This web application was used for the Online Conference held by Union of International Associations(UIA) and Seoul Tourism Organization(STO) over 30 countries.
+This web application was used for the Online Conference held by Union of International Associations(UIA) and Seoul Tourism Organization(STO).
 
-<!--  -->
-
-- Acceessed in: 30 countries
 - Logged users per day: 4,000 ~ 6,000
-  <!-- - Maximum Concurrent User: 2,355 -->
-  <!-- - Average Concurrent User: 1,000 -->
+- Acceessed in: 30 countries
+- Acceessed by: Desktop, Mobile device, Labtop, Tablet
+- Acceessed on: Chrome, IE, Firefox, Safari, Edge
 
-# Main features
+## Main features
 
-## Video chat
+### Video chat
 
 ![assets/many_to_many_video_chat.png](assets/video_chat.jpg)
 
-## Text chat
+### Text chat
 
 ![text_chat_demo.png](assets/text_chat_demo.png)
 
-## Stamp Event
+### Stamp Event
 
 ![stamp_tour.png](assets/stamp_tour.png)
 
-## 3D Virtual Seoul tour
+### 3D Virtual Seoul tour
 
 ![virtual_seoul.png](assets/virtual_seoul.png)
 
-## Live And VOD Streaming
+### Live And VOD Streaming
 
 ![streaming](assets/live_streaming.jpg)
 
-## Seoul Membership Card Event
+### Seoul Membership Card Event
 
 ![membership.png](assets/membership.png)
 
@@ -106,9 +104,7 @@ This web application was used for the Online Conference held by Union of Interna
 
 # Achievement
 
-### This project has brought many contracts.
-
-Our application, Virtual Seoul, has received great attention in the market, which brought many contracts.
+### This project has brought over 10 additional contracts.
 
 #### Some of the biggest projects I've built are listed below.
 
@@ -116,9 +112,9 @@ Our application, Virtual Seoul, has received great attention in the market, whic
 - Asia TEFL Online Conference (Teaching English as a second or foreign language)
 - Simens Online Conference
 
-### At the end of the project, we've already had tons of reusable component
+### Created a number of reusable components and APIs. This has grown profits dramatically
 
-After the development, we could find that we can reuse the components and APIs in other projects. This allowed us to save time and make more profits.
+During the development, we created a number of reusable components and APIs. These were reused in other similar projects, which allowed us to save time and make greater profits.
 
 ### This project motivated me to build a reactjs open-source library
 
