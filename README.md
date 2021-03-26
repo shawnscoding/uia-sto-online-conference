@@ -58,6 +58,10 @@ A screenshot demonstrating the number of the issues in [Jira](https://www.atlass
 - [LIVE Streaming demo](https://www.youtube.com/watch?v=a9wX4MSkSyg)
 - [Video Chat](https://www.youtube.com/watch?v=edzgNn5f5yQ)
 
+### [Website URL](http://virtualseoul.or.kr/)
+
+While we allow access to this website, We have closed most of its features since this is not the period of the Event.
+
 # Project Description
 
 This web application was used for the Online Conference held by Union of International Associations(UIA) and Seoul Tourism Organization(STO).
