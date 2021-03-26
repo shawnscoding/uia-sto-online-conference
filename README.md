@@ -16,19 +16,20 @@ My responsibility was developing both front-end and back-end. Particularly, I de
 
 ### My responsibilities in this project include:
 
+- Front-end System Design
 - Build RESTful APIs in expressjs
 - CRUD data in Mysql DB Tables
 - User Authentication
 - Create UIs in React (tables, banners, poppers, Modals, buttons and so on)
-- Help Center embedding & Technical Support during the event
 - Schedule Push notification, VOD and Live Streaming
 - Handle browser compatibility (Chrome, Safari, Firefox, MS Edge, IE11)
-- Responsive Design (Supports mobile devices)
 - Gitlab Administration
 - Translation Korean to English
 - Enable users to take a photo for a gift event
-- Enable users to do video chat
-- Enable users to do text chat
+- Implement video chat
+- Implement text chat
+- Help Center embedding & Technical Support during the event
+- Responsive Design (Supports mobile devices)
 
 I solved the most issues among the developers
 
@@ -46,25 +47,31 @@ A screenshot demonstrating the number of the issues in [Jira](https://www.atlass
 
 # Demo
 
+### News
+
 #### This project was globally introduced by Arirang News.
 
 [Link to the news](https://www.youtube.com/watch?v=ksBnRT1f2Ak&t=2s)
 
 [![Watch the video](assets/news.jpg)](https://www.youtube.com/watch?v=ksBnRT1f2Ak&t=2s)
 
-#### I also recorded this during the Event
+### Website URL
+
+#### [Link to the website](http://virtualseoul.or.kr/)
+
+[![Watch the video](assets/website.gif)](http://virtualseoul.or.kr/)
+
+While we allow access to this website, We have closed most of its features since this is not the period of the Event.
+
+### Recording
 
 - [Seoul Map](https://www.youtube.com/watch?v=6EdqKznxncA)
 - [LIVE Streaming demo](https://www.youtube.com/watch?v=a9wX4MSkSyg)
 - [Video Chat](https://www.youtube.com/watch?v=edzgNn5f5yQ)
 
-### [Website URL](http://virtualseoul.or.kr/)
-
-While we allow access to this website, We have closed most of its features since this is not the period of the Event.
-
 # Project Description
 
-This web application was used for the Online Conference held by Union of International Associations(UIA) and Seoul Tourism Organization(STO).
+This web application was used for the Online Conference held by [Union of International Associations(UIA)](https://uia.org/) and [Seoul Tourism Organization(STO)](http://www.sto.or.kr/english/index).
 
 - Logged users per day: 4,000 ~ 6,000
 - Acceessed in: 30 countries
