@@ -2,12 +2,12 @@
 
 ## Table of Content
 
-- [Responsibilities](#My-responsibilities-in-this-project-include:)
+- [Role & Responsibility](#Role-&-Responsibility)
+- [Work Flow](#Application-Work-Flow)
 - [Demo](#Demo)
 - [Project Description](#Project-Description)
-- [Work Flow](#Application-Work-Flow)
 - [Main Features](#Main-features)
-- [Result of project](#Result-of-project)
+- [Achievement](#Achievement)
 - [Note](#note)
 
 # Role & Responsibility
@@ -126,8 +126,6 @@ During the development, we created a number of reusable components and APIs. The
 
 During the development, I realised building a crontab (scheduling jobs) is quite tedious and difficult to test. This motivated me to create a node open-source package, which allows you to easily build a crontab functionality. I created this package entirely on my own from scratch. There is an average of approximately 300 weekly downloads.
 
-<!--
-
 # Note
 
-Due to the company policy, I am afraid that I am not allowed to open the source code. -->
+Due to the company policy, I am afraid that I am not allowed to open the source code.
