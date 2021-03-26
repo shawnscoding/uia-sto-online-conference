@@ -108,9 +108,9 @@ This web application was used for the Online Conference held by Union of Interna
 
 #### Some of the biggest projects I've built are listed below.
 
-- KHA Online Conference ( Korean Hospital Association )
-- Asia TEFL Online Conference (Teaching English as a second or foreign language)
-- Simens Online Conference
+- [Simens Online Conference](https://www.npmjs.com/package/reactjs-crontab)
+- [KHA Online Conference](https://www.npmjs.com/package/reactjs-crontab) ( Korean Hospital Association )
+- [Asia TEFL Online Conference](https://www.npmjs.com/package/reactjs-crontab) (Teaching English as a second or foreign language)
 
 ### Created a number of reusable components and APIs. This has grown profits dramatically
 
@@ -118,7 +118,9 @@ During the development, we created a number of reusable components and APIs. The
 
 ### This project motivated me to build a reactjs open-source library
 
-During the development, I realised building a crontab (scheduling jobs) is quite tedious and difficult to test. This motivated me to create a node open-source package, which allows you to easily build a crontab functionality. [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab). I created this package entirely on my own from scratch. There is an average of approximately 300 weekly downloads.
+[Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
+
+During the development, I realised building a crontab (scheduling jobs) is quite tedious and difficult to test. This motivated me to create a node open-source package, which allows you to easily build a crontab functionality. I created this package entirely on my own from scratch. There is an average of approximately 300 weekly downloads.
 
 <!--
 
