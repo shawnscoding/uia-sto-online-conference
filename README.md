@@ -30,13 +30,13 @@ My responsibility was developing both front-end and back-end. Particularly, I de
 - Enable users to do video chat
 - Enable users to do text chat
 
-### I solved the most issues among the developers
+I solved the most issues among the developers
 
-### A screenshot demonstrating the number of the issues in [Jira](https://www.atlassian.com/software/jira) is below
+A screenshot demonstrating the number of the issues in [Jira](https://www.atlassian.com/software/jira) is below
 
 ![jira](assets/jira3.jpg)
 
-### I solved 146 issues out of 325
+#### I solved 146 issues out of 325
 
 # Application Work Flow
 
