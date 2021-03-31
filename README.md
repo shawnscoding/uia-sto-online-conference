@@ -61,7 +61,7 @@ A screenshot demonstrating the number of the issues in [Jira](https://www.atlass
 
 [![Watch the video](assets/website.gif)](http://virtualseoul.or.kr/)
 
-While we allow access to this website, We have closed most of its features since this is not the period of the Event.
+While we always allow access to this website, we have closed most of its features since it is not the period of the Event.
 
 ### Recording
 
