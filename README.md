@@ -28,11 +28,11 @@ My responsibility was developing both front-end and back-end. Collaborating with
 - Gitlab Administration
 - Translation Korean to English
 - Enable users to take a photo for a gift event
-<!-- - Implement video chat
-- Implement text chat -->
 - Help center embedding & Technical Support during the event
 - Responsive Design (Supports mobile devices)
 - Data statistics
+<!-- - Implement video chat
+- Implement text chat -->
 
 <!--
 I solved the most issues among the developers -->
