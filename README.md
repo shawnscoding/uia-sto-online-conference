@@ -2,7 +2,7 @@
 
 ## Table of Content
 
-- [Role & Responsibility](#Role-&-Responsibility)
+- [Role & Responsibility](#Role--Responsibility)
 - [Work Flow](#Application-Work-Flow)
 - [Demo](#Demo)
 - [Project Description](#Project-Description)
