@@ -121,7 +121,7 @@ This web application was used for the Online Conference held by [Union of Intern
 #### Some of the biggest projects I've built are listed below.
 
 <!-- - [Simens Online Conference](https://siemens-evavconference.govent.io/lobby)  -->
-- [KHA Online Conference](https://khc2020.salin.co.kr) ( Korean Hospital Association ) ID: host01@salin.co.kr pw: 1234
+- [KHA Online Conference](https://khc2020.salin.co.kr) ( Korean Hospital Association ) can be logged in with ID: host01@salin.co.kr PW: 1234
 - Asia TEFL Online Conference (Teaching English as a second or foreign language)
 
 ### Created reusable components and APIs. 
