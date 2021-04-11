@@ -127,7 +127,7 @@ This web application was used for the Online Conference held by [Union of Intern
 - [KHA Online Conference](https://www.npmjs.com/package/reactjs-crontab) ( Korean Hospital Association )
 - [Asia TEFL Online Conference](https://www.npmjs.com/package/reactjs-crontab) (Teaching English as a second or foreign language)
 
-### Created a number of reusable components and APIs. This has grown profits dramatically
+### Created reusable components and APIs. 
 
 During the development, we created several reusable components and APIs. This allowed us to save time and make greater profits.
 
