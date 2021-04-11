@@ -12,7 +12,7 @@
 
 # Role & Responsibility
 
-My responsibility was developing both front-end and back-end.
+My responsibility was developing both front-end and back-end. Collaborating with management, departments, and customers to identify end-user requirements and specifications. Testing and deploying applications. Troubleshooting, debugging, maintaining and improving existing software.
 
 <!-- Particularly, I developed the front-end entirely on my own from scratch. -->
 
@@ -28,10 +28,12 @@ My responsibility was developing both front-end and back-end.
 - Gitlab Administration
 - Translation Korean to English
 - Enable users to take a photo for a gift event
-- Implement video chat
-- Implement text chat
-- Help Center embedding & Technical Support during the event
+<!-- - Implement video chat
+- Implement text chat -->
+- Help center embedding & Technical Support during the event
 - Responsive Design (Supports mobile devices)
+- Data statistics
+
 <!--
 I solved the most issues among the developers -->
 
