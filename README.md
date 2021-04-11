@@ -88,9 +88,6 @@ This web application was used for the Online Conference held by [Union of Intern
 
 ![assets/many_to_many_video_chat.png](assets/video_chat.jpg)
 
-### Text chat
-
-![text_chat_demo.png](assets/text_chat_demo.png)
 
 ### Stamp Event
 
