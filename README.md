@@ -12,7 +12,9 @@
 
 # Role & Responsibility
 
-My responsibility was developing both front-end and back-end. Particularly, I developed the front-end entirely on my own from scratch.
+My responsibility was developing both front-end and back-end.
+
+<!-- Particularly, I developed the front-end entirely on my own from scratch. -->
 
 ### My responsibilities in this project include:
 
@@ -30,8 +32,8 @@ My responsibility was developing both front-end and back-end. Particularly, I de
 - Implement text chat
 - Help Center embedding & Technical Support during the event
 - Responsive Design (Supports mobile devices)
-
-I solved the most issues among the developers
+<!--
+I solved the most issues among the developers -->
 
 A screenshot demonstrating the number of the issues in [Jira](https://www.atlassian.com/software/jira) is below
 
@@ -74,9 +76,9 @@ While we always allow access to this website, we have closed most of its feature
 This web application was used for the Online Conference held by [Union of International Associations(UIA)](https://uia.org/) and [Seoul Tourism Organization(STO)](http://www.sto.or.kr/english/index).
 
 - Logged users per day: 4,000 ~ 6,000
-- Acceessed in: 30 countries
-- Acceessed by: Desktop, Mobile device, Labtop, Tablet
-- Acceessed on: Chrome, IE, Firefox, Safari, Edge
+- Accessed in: 30 countries
+- Accessed by: Desktop, Mobile device, Labtop, Tablet
+- Accessed on: Chrome, IE, Firefox, Safari, Edge
 
 ## Main features
 
@@ -125,14 +127,16 @@ This web application was used for the Online Conference held by [Union of Intern
 
 ### Created a number of reusable components and APIs. This has grown profits dramatically
 
-During the development, we created a number of reusable components and APIs. These were reused in other similar projects, which allowed us to save time and make greater profits.
+During the development, we created several reusable components and APIs. This allowed us to save time and make greater profits.
+
+<!-- list demo photos -->
 
 ### This project motivated me to build a reactjs open-source library
 
 [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
 
-During the development, I realised building a crontab (scheduling jobs) is quite tedious and difficult to test. This motivated me to create a node open-source package, which allows you to easily build a crontab functionality. I created this package entirely on my own from scratch. There is an average of approximately 300 weekly downloads.
+During the development, I realised building a crontab (scheduling jobs) is quite tedious and difficult to test. This motivated me to create a node open-source package, which allows you to easily build a crontab functionality. I created this package entirely on my own. There is an average of approximately 300 weekly downloads.
 
 # Note
 
-Due to the company policy, I am afraid that I am not allowed to open the source code.
+Due to the company policy, I am unable to open the source code.
