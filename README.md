@@ -78,7 +78,7 @@ While we always allow access to this website, we have closed most of its feature
 This web application was used for the Online Conference held by [Union of International Associations(UIA)](https://uia.org/) and [Seoul Tourism Organization(STO)](http://www.sto.or.kr/english/index).
 
 - Logged users per day: 4,000 ~ 6,000
-- Accessed in: 30 countries
+- Accessed in: 26 countries
 - Accessed by: Desktop, Mobile device, Labtop, Tablet
 - Accessed on: Chrome, IE, Firefox, Safari, Edge
 
