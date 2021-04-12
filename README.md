@@ -1,4 +1,5 @@
 # UIA & STO Online Conference
+
 [![Watch the video](assets/virtual_seoul2.gif)](http://virtualseoul.or.kr/)
 
 ## Table of Content
@@ -89,7 +90,6 @@ This web application was used for the Online Conference held by [Union of Intern
 
 ![assets/many_to_many_video_chat.png](assets/video_chat.jpg)
 
-
 ### Stamp Event
 
 ![stamp_tour.png](assets/stamp_tour.png)
@@ -122,18 +122,22 @@ This web application was used for the Online Conference held by [Union of Intern
 #### Some of the biggest projects I've built are listed below.
 
 <!-- - [Simens Online Conference](https://siemens-evavconference.govent.io/lobby)  -->
+
 - [KHA Online Conference](https://khc2020.salin.co.kr) ( Korean Hospital Association ) can be logged in with ID: host01@salin.co.kr PW: 1234
 - Asia TEFL Online Conference (Teaching English as a second or foreign language)
 
-### Created reusable components and APIs. 
+### Created reusable components and APIs.
 
 During the development, we created several reusable components and APIs. This allowed us to save time and make greater profits.
 
-<!-- list demo photos -->
+#### Reusable radio input component on [codesandbox](https://codesandbox.io/s/radio-3mtce?file=/src/App.jsx).
+
+![reusable-component.gif](assets/reusable_component.gif)
 
 ### This project motivated me to build a reactjs open-source library
 
 [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
+[![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
 
 I realised building a crontab (scheduling jobs) is quite tedious and difficult to test. This motivated me to create a node open-source package, which allows you to easily build a crontab functionality. I created this package entirely on my own. There is an average of approximately 300 weekly downloads.
 
