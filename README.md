@@ -1,4 +1,5 @@
 # UIA & STO Online Conference
+[![Watch the video](assets/news.jpg)](https://www.youtube.com/watch?v=ksBnRT1f2Ak&t=2s)
 
 ## Table of Content
 
@@ -77,7 +78,7 @@ While we always allow access to this website, we have closed most of its feature
 
 This web application was used for the Online Conference held by [Union of International Associations(UIA)](https://uia.org/) and [Seoul Tourism Organization(STO)](http://www.sto.or.kr/english/index).
 
-- Logged users per day: 4,000 ~ 6,000
+- Logged users per day: 3,000 ~ 5,000
 - Accessed in: 26 countries
 - Accessed by: Desktop, Mobile device, Labtop, Tablet
 - Accessed on: Chrome, IE, Firefox, Safari, Edge
