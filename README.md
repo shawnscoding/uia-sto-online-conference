@@ -1,5 +1,5 @@
 # UIA & STO Online Conference
-[![Watch the video](assets/news.jpg)](https://www.youtube.com/watch?v=ksBnRT1f2Ak&t=2s)
+[![Watch the video](assets/virtual_seoul2.gif)](http://virtualseoul.or.kr/)
 
 ## Table of Content
 
