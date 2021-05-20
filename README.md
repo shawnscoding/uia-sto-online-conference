@@ -124,14 +124,14 @@ During the development, we created several reusable components and APIs. This al
 
 ![reusable-component.gif](assets/reusable_component.gif)
 
-### This project motivated me to build a reactjs open-source library
+### 3. This project motivated me to build a reactjs open-source library
 
 #### [Reference] - [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
 [![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
 
 I realised building a crontab (scheduling jobs) is quite tedious and difficult to test. I knew such a function will be used many times in our projects and I wouldn't want to repeat the same implementation over and over again. This motivated me to modularise this functionality. And one thing led to another, I ended up creating a node open-source package out of it. There is an average of approximately 300 weekly downloads.
 
-### Learned how to optimize React app performance.
+### 4. Learned how to optimize React app performance.
 
 As the application grew, it started getting too much re-render and slowed the app down. Particularly, I was surprised when HTML auto-canvasing functionality no longer worked after adding several logics to it. In the debugging and optimizing process, I learned about several methods such as React.memo, HOC, React.useCallback, lazyload, algorithms and so on.    
 
