@@ -118,7 +118,7 @@ This web application was used for the Online Conference held by [Union of Intern
 
 ### 2. Created reusable components and APIs.
 
-During the development, we created several reusable components and APIs. This allowed us to save time and make greater profits.
+I created several reusable components and APIs out of this project which saved my team 10 person-hours each month and significantly reduced errors in development.
 
 #### [Reference] - Reusable radio input component on [codesandbox](https://codesandbox.io/s/radio-3mtce?file=/src/App.jsx).
 
